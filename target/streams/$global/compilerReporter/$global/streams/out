@@ -1,0 +1,6 @@
+[0m[[31merror[0m] [0m/home/juanmartinez/akka-sample-persistence-scala/src/main/scala/sample/persistence/PromotionalCodeExample.scala:42: type mismatch;[0m
+[0m[[31merror[0m] [0m found   : () => sample.persistence.EstadoBono[0m
+[0m[[31merror[0m] [0m required: sample.persistence.DescuentoAplicado => Unit[0m
+[0m[[31merror[0m] [0m      persist(DescuentoAplicado(state))(darEstado)[0m
+[0m[[31merror[0m] [0m                                        ^[0m
+[0m[[31merror[0m] [0mone error found[0m

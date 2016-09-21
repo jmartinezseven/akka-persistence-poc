@@ -1,0 +1,5 @@
+sbt update
+update
+compile
+run
+exit
